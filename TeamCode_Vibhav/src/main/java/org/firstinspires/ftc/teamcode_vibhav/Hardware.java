@@ -56,7 +56,7 @@ public class Hardware {
     /*3--------------------------------------------*/
     /** local OpMode members. */
     HardwareMap hwMap =  null;
-    private ElapsedTime period = new ElapsedTime();
+    public ElapsedTime period = new ElapsedTime();
     /*3--------------------------------------------*/
 
     /*4-----------------*/
